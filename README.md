@@ -1,7 +1,7 @@
 # simulations_for_physics
 My physics simulations for 4th semester
 
-![Task]([https://github.com/ElderEv1l/simulations_for_physics/assets/95085670/6d07c92f-ecba-4ee6-8eb8-9757ea70db3e](https://github.com/ElderEv1l/simulations_for_physics/blob/main/Task.jpg))
+![Task](https://github.com/ElderEv1l/simulations_for_physics/blob/main/Task.jpg)
 
 
 * First model
